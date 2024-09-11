@@ -1,0 +1,6 @@
+.row{
+    width: auto;
+}
+.row:hover{
+    background-color: rgb(255, 94, 0);
+}
